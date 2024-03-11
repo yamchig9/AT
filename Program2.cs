@@ -1,3 +1,4 @@
+/*
 int M = 1;
 int N = 10;
 int result = Ackermann(M, N);
@@ -21,3 +22,4 @@ int Ackermann(int m, int n)
 
     return 0;
 }
+*/
