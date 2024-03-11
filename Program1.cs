@@ -1,4 +1,5 @@
-﻿int M = 1;
+﻿/*
+int M = 1;
 int N = 10;
 
 PrintNumbersBetween(M, N);
@@ -11,3 +12,4 @@ void PrintNumbersBetween(int m, int n)
         PrintNumbersBetween(m + 1, n);
     }
 }
+*/
